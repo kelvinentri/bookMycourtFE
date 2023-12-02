@@ -1,5 +1,4 @@
 export const  BASE_URL=process.env.REACT_APP_URL
-console.log(process.env.REACT_APP_URL);
 export  const TIMINGS= [
     {
     name:'12am-1am',
